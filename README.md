@@ -19,8 +19,6 @@ Favorite Song: 看不见的 - Secret by 门尼
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=MangoGrove&icon=9&color=5)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
