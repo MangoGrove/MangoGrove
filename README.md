@@ -4,9 +4,11 @@
 
 I really love Computer Science and History and take advantage of any opportunity to be able to use both backgrounds! This has led to me having quite a bit of experience in the fields of Natural Language Processing and AI. 
 
-Current Status: Master's Student <br><br>
+Current Status: Master's Student 
 Former: Computer Science, Chinese and History undergrad 
+Langauge(s): English, Spanish, and Chinese
 Favorite Song: 看不见的 - Secret by 门尼
+
 
 <br><br>Fun Fact: I really love Pokemon and Skyrim (and it's lowkey what pushed me to take my first programming course)
 
