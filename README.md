@@ -1,6 +1,6 @@
 ## I'm MangoGrove! ʕ •ᴥ•ʔ
 
-I really love Computer Science and History and take advantage of any opportunity to be able to use both backgrounds! This has led to me having quite a bit of experience in the fields of Natural Language Processing and AI. 
+I really love Computer Science and History and take advantage of any opportunity to be able to use both backgrounds! This has led to me having quite a bit of experience in the fields of Natural Language Processing, Computer Vision and AI. 
 
 Current Status: Master's Student 
 
